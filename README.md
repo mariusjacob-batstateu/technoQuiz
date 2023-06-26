@@ -1,3 +1,3 @@
-# Project Title: TechnoQuiz
+TECHNOQUIZ: A Learning Platform for Programmers
 
-## Introduction
+
