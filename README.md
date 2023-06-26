@@ -7,4 +7,4 @@ The TechnoQuiz app aims to provide a convenient and dynamic platform for student
 
 
   
-![images](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113661293/0219ead2-dd41-4dcc-a15e-0448c24ae61f)
+![614781d074140](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113661293/27c1230a-3cb9-4c23-a5fb-e70da6738d36)
