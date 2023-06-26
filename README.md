@@ -12,4 +12,5 @@ The TechnoQuiz app aims to provide a convenient and dynamic platform for student
 
   The effective creation and deployment of TechnoQuiz has the potential to transform the learning experience of Batangas State University's BSCS and BSIT students. This mobile quiz software will provide a rich and engaging learning platform by bringing technology into the educational journey, developing critical thinking abilities, retention of information, and academic advancement. The following chapters of this thesis will go into detail about the TechnoQuiz app's design, development, and evaluation procedures, resulting in a comprehensive solution adapted to the specific demands and objectives of the BSCS and BSIT departments.
 
-## Problem Statement
+## Purpose and Description
+
