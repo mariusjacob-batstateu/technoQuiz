@@ -18,9 +18,5 @@ The application features a user-friendly interface, allowing college students to
 
 ## Graphical User Interface
  
-https://github.com/mariusjacob-batstateu/technoQuiz/assets/113661505/c468d5ac-578f-4d7e-88bf-35984a083637
-
-
-
-https://github.com/mariusjacob-batstateu/technoQuiz/assets/113661505/2046c58e-8e10-4125-a199-2c0876126e80
+![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/8a9ebecd-c702-4c91-bdd0-36d4603169b3) 
 
