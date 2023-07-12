@@ -28,6 +28,7 @@ In the development of the mobile application, the developers will use agile meth
 ## SYSTEM ARCHITECTURE
 
 
+
 ## Graphical User Interface
  
 ![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/8a9ebecd-c702-4c91-bdd0-36d4603169b3) ![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/0f4e02c8-9cb1-4a2e-8ee9-bc67c302f75e) ![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/f4c1eb2d-578c-4d39-a054-c0b2f78f6118) ![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/9c6c4cee-25e7-4e6b-9824-e61b8f37b367) ![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/a510d695-0e7a-4b96-944d-6eaf68ef8bde) ![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/bda27ffa-5965-4236-aede-c1e1e859a16c) ![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/ea8d7f50-3362-40d7-9d6e-b1edf90c8446) ![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/01ec1183-f24a-4718-8f8d-7dbc91ed37e7) ![image](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/5cb5923d-3552-4fcd-887a-ff2d0b69a4bb)
