@@ -1,3 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 #container {
   text-align: center;
 
@@ -25,3 +31,38 @@
 #container a {
   text-decoration: none;
 }
+
+
+.home{
+  position: relative;
+  height: 100%;
+  .home-content{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    
+    .btn-home{
+      width: 120px;
+      height: 40px;
+      margin: 5px;
+    }
+  }
+
+
+  .footer{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+    li{
+      margin: 5px;
+      font-size: 15px;
+    }
+  }
+}
+
