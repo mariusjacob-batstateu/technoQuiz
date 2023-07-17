@@ -1,0 +1,21 @@
+<ion-content>
+  <div class="home">
+    <ion-img id="home-vec" src="../../assets/img/bg/home-vec.png"></ion-img>
+  
+    <div class="content-container">
+      <div class="content">
+        <h1 class="header">Select game options</h1>
+        <br><br>
+        <ion-button class="btn-category" shape="round" *ngFor="let button of buttonsArray" [color]="button.selected ? 'primary' : 'medium'" (click)="toggleButton(button)">
+          {{ button.label }}
+        </ion-button>
+  
+        <br><br><br>
+        <ion-button *ngFor="let difficulty of difficultyArray; let idx=index" [color]="difficulty.selected ? 'primary' : 'medium'" (click)="selectGameType(idx)" shape="round" color="success">{{difficulty.label}}</ion-button>
+  
+        <br><br>
+        <ion-button shape="round" size="full" (click)="submit()">Start</ion-button>
+      </div>
+    </div>
+  </div>
+</ion-content>

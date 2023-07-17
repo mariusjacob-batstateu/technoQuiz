@@ -1,0 +1,23 @@
+.home{
+  .footer{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+    li{
+      margin: 5px;
+      font-size: 15px;
+    }
+  }
+}
+
+.btn-home{
+  width: 120px;
+  height: 40px;
+  margin: 5px;
+}
+.home-vec{
+  position: relative;
+}
+

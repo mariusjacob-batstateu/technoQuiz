@@ -1,0 +1,29 @@
+.btnChoice{
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    white-space: normal;
+}
+.score-tracker{
+    display: flex;
+    ion-button{
+        width: 100%;
+        min-width: none;
+        height: 20px;
+        box-shadow: 0 5px 8px -2px gray; 
+        border-radius: 0;
+    }
+}
+
+.alert-result{
+    --background: rgba(241, 59, 59, 0.918);
+    --backdrop-opacity: 0.5;
+    --width: 110%;
+    --max-width: 110%;
+}
+
+.content{
+    .question{
+        text-align: center;
+    }
+}

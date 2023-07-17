@@ -1,0 +1,13 @@
+<div class="score-tracker">
+  <ion-button *ngFor="let quesans of quesAnsArray; let i = index" [color]="quesans.status === 0 ? 'medium' : quesans.status === 1 ? 'success' : 'danger'"></ion-button>
+</div>
+
+<h1>{{ quesAnsArray[currentIndex].question }}</h1>
+
+<br><br>
+<ion-button class="btnChoice"  *ngFor="let choices of quesAnsArray[currentIndex].choices; let itx=index" [color]="choices.selected ? 'primary' : 'medium'" shape="round" size="full" (click)="choiceRadio(currentIndex,itx)">{{ choices.choice }}</ion-button>
+
+<!-- <button id="submit" shape="round" size="full" (click)="submit(idx)">Submit</button> -->
+
+
+<ion-button id="submit" shape="round" size="full" (click)="goToNext(currentIndex)" [disabled]="answer===''">Submit</ion-button>
