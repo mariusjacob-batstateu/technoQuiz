@@ -26,7 +26,7 @@ In the development of the mobile application, the developers will use agile meth
 
 ## SYSTEM ARCHITECTURE
 ![dia](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/63f39137-520d-4006-b6c7-ba82d99d09da)
-![usecase](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/e768ad76-2273-4cfe-bc0f-aed9d3abacdc)
+![usecasee](https://github.com/mariusjacob-batstateu/technoQuiz/assets/113400436/1585d8ec-e7f8-4988-9d9e-6b80e9ac7736)
 
 
 
